@@ -1,0 +1,18 @@
+
+#titre{
+    text-align: center;
+}
+
+.rouge{
+    text-transform: capitalize;
+    color: red;
+}
+
+.vert{
+    text-transform: capitalize;
+    color: green;
+}
+
+#italic{
+    font-style:italic;
+}
